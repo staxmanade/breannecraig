@@ -60,6 +60,10 @@ body {
   max-width: none;
 }
 
+.landing-page img {
+  border: 1px solid #111;
+}
+
 .landing-header {
   position: relative;
   z-index: 10;
