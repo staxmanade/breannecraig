@@ -10,7 +10,7 @@
   }
 
   if (!config.clientId || config.clientId === "REPLACE_WITH_PAYPAL_CLIENT_ID") {
-    setStatus("PayPal deposit button is not configured yet. Add Breanne's PayPal client ID in /assets/js/paypal-config.js.");
+    setStatus("PayPal deposit button is not configured yet. Add Breanne's PayPal client ID in assets/js/paypal-config.js.");
     return;
   }
 
